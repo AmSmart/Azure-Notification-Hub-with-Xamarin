@@ -21,8 +21,8 @@ namespace DankersNotifications.Droid
     public class FirebaseService : FirebaseMessagingService
     {
         public static string FCMTemplateBody { get; set; } = "{\"data\":{\"message\":\"$(messageParam)\"}}";
-        public static string NotificationHubName { get; set; } = "DankersSoftware";
-        public static string ListenConnectionString { get; set; } = "Endpoint=sb://dankers.servicebus.windows.net/;SharedAccessKeyName=DefaultListenSharedAccessSignature;SharedAccessKey=8msy9WqvnFAyW/YhBv9aZ92ddzN7H4CSWw6R5UTOW/8=";
+        public static string NotificationHubName { get; set; } = "<Notification Hub Name>";
+        public static string ListenConnectionString { get; set; } = "< ListenConnection String >";
         public static string[] SubscriptionTags { get; set; } = { "default" };
         public static string CHANNEL_ID = "my_channel_01";
         public static string name = "Dankers Notification";
