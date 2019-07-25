@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "611952786237",
+    "firebase_url": "https://dankerssoftware-1d8d2.firebaseio.com",
+    "project_id": "dankerssoftware-1d8d2",
+    "storage_bucket": "dankerssoftware-1d8d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611952786237:android:5ccbd9d9e25f2ede",
+        "android_client_info": {
+          "package_name": "Dankers.Software"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611952786237-0d235lc1eo99107qmdt3of694olag503.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARvPqMKb3NiNpzGRPUE9y0iSXIQ8TvUng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611952786237-0d235lc1eo99107qmdt3of694olag503.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
